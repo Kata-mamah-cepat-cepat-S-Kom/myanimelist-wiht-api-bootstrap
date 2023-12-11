@@ -15,6 +15,7 @@ const Home = async () => {
       <Container>
         <Row>
           <Col>
+            <p>test</p>
             <ListAnime api={topAnime} />
           </Col>
         </Row>
